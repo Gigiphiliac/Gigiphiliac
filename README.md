@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on fleshing out my resume with projects
-- 🌱 I’m currently learning FastAPI, Vim, and React Native
+- 🌱 I’m currently learning FastAPI, Streamlit, and React Native
 - ⚡ Fun fact: I've been enjoying 2-space indentation recently
  
 <br/>  
