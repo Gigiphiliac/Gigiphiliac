@@ -1,94 +1,118 @@
-### Hi 👋 I'm Clayton, a recently graduated IT student from rural NSW, Australia
+# Hi 👋 I'm Clayton
 
+I'm a **Software Engineer from Australia** with experience building and deploying software across the full stack, with a focus on AI/ML, agentic systems, cloud infrastructure, and API-driven applications.
 
-- 🔭 I’m currently working on fleshing out my resume with projects
-- 🌱 I’m currently learning FastAPI, Streamlit, and React Native
-- ⚡ Fun fact: I've been enjoying 2-space indentation recently
- 
-<br/>  
+I worked as a Software Engineering Intern → Junior Software Engineer at **2pi Software**, where I built an agentic AI platform from the ground up. I've worked across frontend, backend, infrastructure, integrations, CI/CD, and architecture in a small, high-autonomy team.
 
-
-## My Skill Set
-<table><tr><td valign="top" width="25%">
-
-### Languages  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="25%">
-
-### Frameworks & Libraries  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="25%">
-
-### Development and Cloud Tools
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
-</div>
-
-</td><td valign="top" width="25%">
-  
-### Devices, Databases, and Design
-<div align="center">  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
-</div>
-
-</td></tr></table>  
-
-<br/>  
- 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gigiphiliac&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gigiphiliac&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table> 
-  
+I enjoy building backend systems, solving practical problems, working closely with others, and picking up new technologies along the way.
 
 <br/>
 
-<!-- Profile views link -->
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Gigiphiliac&&style=flat-square" align="center" />
-</div>  
-  
-<br/>  
+## 🛠️ My Skill Set
 
-<!-- Buy me a coffee link -->
+<table> <tr> <td valign="top" width="25%">
+
+ ### Languages
+
 <div align="center">
-    <a href="https://www.buymeacoffee.com/gigsticles" target="_blank" style="display: inline-block;">
-        <img
-            src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-            align="center"
-        />
-    </a>
+
+<a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python" alt="Python" height="45" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" height="45" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" height="45" /></a>
+
 </div>
+
+</td>
+
+<td valign="top" width="25%">
+
+### Frameworks & APIs
+
+<div align="center">
+
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" height="45" /></a>
+<a href="https://react.dev/" target="_blank"><img src="https://cdn.simpleicons.org/react" alt="React" height="45" /></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://cdn.simpleicons.org/vuedotjs" alt="Vue.js" height="45" /></a>
+<a href="https://nuxt.com/" target="_blank"><img src="https://cdn.simpleicons.org/nuxt" alt="Nuxt" height="45" /></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.simpleicons.org/flask" alt="Flask" height="45" /></a>
+
+</div>
+
+</td>
+
+<td valign="top" width="25%">
+
+### Cloud & Infrastructure
+
+<div align="center">
+
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-group/AWSCloudlogo.svg" alt="AWS" height="45" /></a>
+<a href="https://aws.amazon.com/cdk/" target="_blank"><img src="https://awsfundamentals.com/assets/aws-icons/Arch_AWS-Cloud-Development-Kit_64.svg" alt="AWS CDK" height="45" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker" alt="Docker" height="45" /></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://cdn.simpleicons.org/linux" alt="Linux" height="45" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git" alt="Git" height="45" /></a>
+
+</div>
+
+</td>
+
+<td valign="top" width="25%">
+
+### Data & AI
+
+<div align="center">
+
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" height="45" /></a>
+<a href="https://aws.amazon.com/opensearch-service/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/aws-amazon-opensearch-service/default.svg" alt="Amazon OpenSearch Service" height="45" /></a>
+
+</div>
+
+</td> </tr> </table>
+
+<br/>
+
+## 🤖 AI & Agentic Systems
+
+- **LLM & AI Agents**
+- **Tool Calling**
+- **MCP**
+- **MCP Context Forge**
+- **RAG & Vector Search**
+- **LLM Benchmarking**
+- **External API Integration**
+- **Async Python APIs**
+
+</div>
+
+<br/>
+
+## ☁️ Cloud & Development
+
+- **AWS**
+- **AWS CDK**
+- **Docker**
+- **GitHub Actions**
+- **GitLab CI/CD**
+- **Linux**
+- **PostgreSQL**
+- **Amazon OpenSearch Service**
+- **pgvector**
+- **REST APIs**
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Gigiphiliac&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gigiphiliac&layout=compact&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Gigiphiliac&&style=flat-square" align="center" /> </div>
