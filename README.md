@@ -26,7 +26,7 @@ I enjoy building backend systems, solving practical problems, working closely wi
 
 <td valign="top" width="25%">
 
-### Frameworks & APIs
+### Frameworks
 
 <div align="center">
 
